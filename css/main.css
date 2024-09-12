@@ -63,16 +63,22 @@ footer {
     background-color:#e0e0eb;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: #ccffff;
   }
 
   #column-2 {
     background-color: #d9ffcc;
+
   }
 
   #column-3 {
     background-color: #fff2cc;
+    width: 100%;
   }
 
   footer {
@@ -88,6 +94,10 @@ footer {
     background-color: #e0e0eb;
   }
 
+.col-3 {
+  width: 33.3%;
+} 
+
   #column-1 {
     background-color: #ffb3ff;
   }
@@ -98,6 +108,7 @@ footer {
 
   #column-3 {
     background-color: #b3e6ff;
+    width: 33.3%;
   }
 
   footer {
